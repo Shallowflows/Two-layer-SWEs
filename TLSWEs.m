@@ -9,10 +9,9 @@
 % majid akbari* 2023.
 %* Department of Civil Engineering, University of Sistan and
 %Baluchestan, Zahedan, Iran.
-%Email: majidakbari@pgs.usb.ac.ir   DOI: 0000-0002-8659-3753 
+%Email: majidakbari@pgs.usb.ac.ir  ORCID: 0000-0002-8659-3753 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clc
 clear;
 for kr=1:4
