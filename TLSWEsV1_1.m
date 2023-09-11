@@ -1,6 +1,6 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% The well-balanced algorithem preserves stationary shockwaves for two-layer
+% The well-balanced algorithm preserves stationary shockwaves for two-layer
 % shallow water equations.
 
 %this is part of a paper titled "preserving stationary discontinuities in
@@ -16,8 +16,8 @@
 
 clc
 clear;
-for kr=1:4 % loop for 4 diffrent density ratio
-for kn=1:6 % loop for 6 diffrent mesh sizes
+for kr=1:4 % loop for 4 different density ratio
+for kn=1:6 % loop for 6 different mesh sizes
 
 nk=[50 100 200 400 800 3200]; % mesh
 rk=[0.8 0.92 0.98 0.99]; % table of density ratio
