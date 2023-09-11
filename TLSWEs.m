@@ -1,6 +1,6 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% The well-balanced algorithem preserves stationary shockwaves for two-layer
+% The well-balanced algorithm preserves stationary shockwaves for two-layer
 % shallow water equations.
 
 %this is part of a paper titled "preserving stationary discontinuities in
