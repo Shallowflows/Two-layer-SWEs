@@ -6,12 +6,12 @@
 %this is part of a paper titled "preserving stationary discontinuities in
 %two-Layer shallow water equations with a novel well-balanced approach".
 
-% majid akbari* 2023.
+% majid akbari* Bahareh Pirzadeh* Sep 2023.
 %* Department of Civil Engineering, University of Sistan and
 %Baluchestan, Zahedan, Iran.
 %Email: majidakbari@pgs.usb.ac.ir   ORCIDE: 0000-0002-8659-3753 
 
-% the code will be updated soon...
+% the latest update Jan 2024.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clc
