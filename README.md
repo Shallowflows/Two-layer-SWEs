@@ -5,5 +5,5 @@
 
 *the related article is avalibale in:* https://doi.org/10.2166/hydro.2023.312
 
-*see also:* https://doi.org/10.1002/fld.5076
+*for more about HLL-MSF solver see also:* https://doi.org/10.1002/fld.5076
 
