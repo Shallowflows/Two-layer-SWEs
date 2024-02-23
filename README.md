@@ -5,7 +5,7 @@
 
 MSF stands for *Moving and Stationary Shockwave Fixes.*
 
-*the related article is avalibale in:* https://doi.org/10.2166/hydro.2023.312
+*the method was introduced in the article avalibale in:* https://doi.org/10.2166/hydro.2023.312
 
 *for more about HLL-MSF solver see also:* https://doi.org/10.1002/fld.5076
 
