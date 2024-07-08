@@ -1,7 +1,7 @@
 **HLL-MSF solver**
 
 
-**The code implements an HLL-type well-balanced numerical scheme that accurately captures internal hydraulic jump in two layer shallow water equations**
+**An HLL-type well-balanced numerical scheme that accurately captures internal hydraulic jump in two layer shallow water equations**
 
 MSF stands for *Moving and Stationary Shockwave Fixes.*
 
